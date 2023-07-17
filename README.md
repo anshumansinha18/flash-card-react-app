@@ -1,4 +1,4 @@
-# flash-card-react-app
+# Flashcards React App
 Small Level Flashcard Application
 
 This is a small level Flashcard application built using the concepts of react states and props. 
